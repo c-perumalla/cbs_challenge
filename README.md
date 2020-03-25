@@ -9,7 +9,12 @@ Make your case with the appropriate visualizations.
 
 # Stages
 ## Exploration stage
-where you identify the important variables with significant interactions.
+1. Explored subscriber, commuter trips. 
+2. Explored effect of season on number of trips
+3. Explored effect of temperature on number of trips
+4. Explored effect of temperature on length of trips
+5. Explored effect of events on length of trips
 
 ## synthesis stage 
-where you pick one or two patterns to organize your findings around.
+1. Linear/Non linear models to evaluate number of trips on a given day with certain mean temperature
+2. Suggested two other methods 1. Estimated the probabability of taking a trip for a given temperature using normal approximation 2. Using bayes theory
